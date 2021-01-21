@@ -1,0 +1,33 @@
+.swipeButtons {
+    position: fixed;
+    /* bottom: 10vh; */
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.swipeButtons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipeButton_left {
+    color: #ec5e67 !important;
+}
+
+.swipeButton_star {
+    color: #ec5e67 !important;
+}
+
+.swipeButton_right {
+    color: #62b4f0 !important;
+}
+
+.swipeButton_lighting {
+    color: #925dd1 !important;
+}
+
+.swipeButton_repeat {
+    color: #f5b748 !important;
+}
